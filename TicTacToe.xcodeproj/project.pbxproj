@@ -17,6 +17,7 @@
 		2A3249082B1F777900947834 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3249072B1F777900947834 /* TicTacToeTests.swift */; };
 		2A3249122B1F777900947834 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3249112B1F777900947834 /* TicTacToeUITests.swift */; };
 		2A3249142B1F777900947834 /* TicTacToeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3249132B1F777900947834 /* TicTacToeUITestsLaunchTests.swift */; };
+		2AEEDD892B28B3FB0059AFDC /* ViewControllerScores.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEEDD882B28B3FB0059AFDC /* ViewControllerScores.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2A32490D2B1F777900947834 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A3249112B1F777900947834 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		2A3249132B1F777900947834 /* TicTacToeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2AEEDD882B28B3FB0059AFDC /* ViewControllerScores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerScores.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		2A3248EC2B1F777700947834 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
+				2AEEDD882B28B3FB0059AFDC /* ViewControllerScores.swift */,
 				2A3248ED2B1F777700947834 /* AppDelegate.swift */,
 				2A3248EF2B1F777700947834 /* SceneDelegate.swift */,
 				2A3248F12B1F777700947834 /* ViewController.swift */,
@@ -263,6 +266,7 @@
 			files = (
 				2A3248F22B1F777700947834 /* ViewController.swift in Sources */,
 				2A3248EE2B1F777700947834 /* AppDelegate.swift in Sources */,
+				2AEEDD892B28B3FB0059AFDC /* ViewControllerScores.swift in Sources */,
 				2A3248F82B1F777700947834 /* TicTacToe.xcdatamodeld in Sources */,
 				2A3248F02B1F777700947834 /* SceneDelegate.swift in Sources */,
 			);
